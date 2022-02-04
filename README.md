@@ -10,4 +10,4 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/elifcifci) 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=elifcifci&show_icons=true&theme=gradient) [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)       ![Github stats 1](https://github-readme-stats.vercel.app/api?username=elifcifci&show_icons=true&theme=gradient) 
