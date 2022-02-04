@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! 👋 I'm Elif Cifci. My psychological counselor, but with the passion to produce, I took the step in December 2021 for the career change that I have been planning since 2017. I took the first step to the software with java. I started the computer programming associate degree program in 2020. As of December 2021, I have been improving myself in the frontend field at Patika.
+
 [![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com)
 
 - 🌱 I'm currently dealing with the front-end and learing react for this.
